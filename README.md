@@ -54,7 +54,10 @@ api.exemplo.com
 ```
 
 ## 🤝 Contribuições
+
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request com melhorias, sugestões ou correções.
+
+Este script foi inspirado nos estudos do NPP da Desec Security, e a ideia de toda a automação que planejo usar, nasceu devido aos estudos do curso de automação no recon ministrado pelo @OFJAAH. 
 
 Made with 💚 by lupedsagaces
 
